@@ -607,6 +607,29 @@ textarea {
   .header__sm-menu-link-last {
     border-bottom: 0; }
 
+.contact-info {
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+   font-weight: bold;
+  font-size: 30px;
+  color: #fafafa
+}
+
+.contact-info p {
+  margin: 10px 0;
+}
+
+.contact-info a {
+  color: #333;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 30px;
+  color: #fafafa
+}
+
+
+
 .main-footer {
   background: #000;
   color: #fff; }
